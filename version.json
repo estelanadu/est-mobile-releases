@@ -1,6 +1,6 @@
 {
-  "version": "1.4.5",
-  "description": "EST Sales v1.4.5",
+  "version": "1.4.6",
+  "description": "EST Sales v1.4.6",
   "apk": {
     "arm64": "https://github.com/estelanadu/est-mobile-releases/releases/latest/download/app-arm64-v8a-release.apk",
     "armeabi": "https://github.com/estelanadu/est-mobile-releases/releases/latest/download/app-armeabi-v7a-release.apk"
