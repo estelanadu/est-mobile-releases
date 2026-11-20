@@ -10,9 +10,9 @@ Official APK release repository for the EST Mobile application.
 
 | Release Type | Version | Date |
 |---|---|---|
-| Global Release | 1.4.5+5 | Nov 19, 2026 |
-| Special Release (In-Office) | 1.4.4+4 | Nov 09, 2026 |
+| Global Release | 1.4.6+6 | Nov 20, 2026 |
+| Special Release (In-Office) | 1.4.7+7 | Nov 20, 2026 |
 
 ## Latest Version
 
-**1.4.4+4** — November 09, 2026
+**1.4.7+7** — November 20, 2026
